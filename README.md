@@ -1,2 +1,2 @@
 # folder 
-a folder of R workshop SBCPD  
+a folder of R workshop SBCPD   
