@@ -2,7 +2,7 @@
 title: "Untitled"
 author: "Maxwel Coura Oliveira"
 date: "3/24/2020"
-output: html_document
+output: html_document 
 ---
 
 
